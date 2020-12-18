@@ -3,3 +3,4 @@ Creating a container for the litterbox for my cats. Sadly one of my cats is part
 
 Going to create a 1 by box to place the litterbox in to keep my children from kicking litter from all over the place. 
 
+Going to start the project with and arduino UNO may switch to a smaller board later because it will probably be overkill.
